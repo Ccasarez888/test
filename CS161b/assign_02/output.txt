@@ -1,0 +1,55 @@
+Script started on 2022-04-26 12:07:25-07:00
+]0;charlie.casarez@vmcslinuxprod01:~/CS161b/assign_02charlie.casarez@vmcslinuxprod01:~/CS161b/assign_02 $ clear
+[3J[H[2J]0;charlie.casarez@vmcslinuxprod01:~/CS161b/assign_02charlie.casarez@vmcslinuxprod01:~/CS161b/assign_02 $ clearnano a02.cppls[Kcd assign_02ls[Kcd assign_02ls[Knano a02.cpp[7Pclear[K./a02
+Welcome to my program!
+
+
+Please pick one of the following: 
+1. Simple interest 
+2. Compound interest 
+3. Quit 
+Please enter a value 1-3
+1
+Enter the principal amount: 
+300
+Enter the interest rate: 
+3.75
+Enter the time in years: 
+4
+Interest accreued: 45.00
+Total accrued amount(interest + principal): 345.00
+Thanks for using my program!
+***
+Goodbye!
+Please pick one of the following: 
+1. Simple interest 
+2. Compound interest 
+3. Quit 
+Please enter a value 1-3
+2
+Enter the principal amount: 
+10000
+Enter the interest rate: 
+3.875
+Enter the time in years: 
+7.5
+Enter the number of compounding period: 
+13 2
+Interest accreued: 3366.37
+Total accrued amount(interest + principal): 13366.37
+Thanks for using my program!
+***
+Goodbye!
+Please pick one of the following: 
+1. Simple interest 
+2. Compound interest 
+3. Quit 
+Please enter a value 1-3
+3
+Thanks for using my program!
+***
+Goodbye!
+]0;charlie.casarez@vmcslinuxprod01:~/CS161b/assign_02charlie.casarez@vmcslinuxprod01:~/CS161b/assign_02 $ exit
+exit
+
+Script done on 2022-04-26 12:09:34-07:00

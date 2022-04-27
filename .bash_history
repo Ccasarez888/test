@@ -1,0 +1,1166 @@
+#1649183084
+passwd
+#1649183180
+TERM=vt100
+#1649183629
+cd
+#1649183634
+ls
+#1649183636
+list
+#1649183638
+ls
+#1649183662
+pwd
+#1649183669
+cd home
+#1649183678
+cd charlie.casarez
+#1649183682
+cd
+#1649183684
+ls
+#1649183703
+mkdir 161b
+#1649183713
+cd 161b
+#1649183734
+rm 
+#1649183736
+cd
+#1649183741
+rm 161b
+#1649183748
+rm -161b
+#1649183796
+rmdir 161b
+#1649183803
+cd 161b
+#1649183812
+mkdir CS161b
+#1649183819
+cd CS161b
+#1649183834
+rm projx
+#1649183850
+ls
+#1649183852
+ls -l
+#1649183856
+cd
+#1649183857
+ls
+#1649183916
+mkdir Assign_01
+#1649183918
+ls
+#1649183920
+cd
+#1649183921
+ls
+#1649183929
+cd Assign_01
+#1649184008
+nano A01.cpp
+#1649184285
+ls
+#1649184340
+g++ -Wall -g a01.cpp -o a01
+#1649184356
+g++
+#1649184396
+g++ -wall -g A01.cpp -o A01
+#1649184409
+g++ -Wall -g A01.cpp -o A01
+#1649184417
+cd
+#1649184421
+g++ -Wall -g A01.cpp -o A01
+#1649184429
+ls
+#1649184804
+Assign_01
+#1649184810
+cd Assign_01
+#1649184837
+ls
+#1649184864
+g++ -Wall -g A01.cpp -o A01
+#1649184879
+./A01
+#1649185049
+cat
+#1649185377
+getent Ccasarez567878
+#1649185383
+getent psswd
+#1649185704
+cslinux.pcc.edu
+#1649186306
+pine
+#1649267020
+ls
+#1649267033
+cd CS161b
+#1649267035
+ls
+#1649794692
+cd Assign_01
+#1649794694
+ls
+#1649794701
+cd A01
+#1649794712
+cd A01.cpp
+#1649794718
+-g
+#1649794720
+help
+#1649794556
+cd CS161b
+#1649794565
+mkdir test01
+#1649794569
+ls
+#1649794578
+cd test01
+#1649794581
+nano
+#1650308472
+g++ -Wall -g a01.cpp -o a01
+#1650308509
+g++ -wall -g -A01.cpp -0 A01
+#1650308322
+ls
+#1650308331
+cd Assign_01
+#1650308348
+ls
+#1650308362
+nano a01.cpp
+#1650311287
+c
+#1650311289
+cd
+#1650311299
+nano ao1.cpp
+#1650311483
+cd
+#1650311485
+d
+#1650311489
+dclear
+#1650311492
+clear
+#1650311531
+cd
+#1650311534
+ls
+#1650311542
+Assign_01 
+#1650311548
+cd Assign_01
+#1650311550
+ls
+#1650311570
+nano ~/ao1.copyy
+#1650311598
+nano a01.cppyy
+#1650311109
+ls
+#1650311149
+g++ -wall -g a01.cpp -o A01
+#1650311160
+g++ -Wall -g a01.cpp -o A01
+#1650311166
+ls
+#1650311172
+Assign_01
+#1650311182
+cd Assign_01
+#1650311183
+ls
+#1650311187
+A01
+#1650311190
+cd A01
+#1650311202
+cd a0-1.cpp
+#1650311247
+g++ -Wall -g a01.cpp -o Assign_01
+#1650311324
+g++ -Wall -g a01.cpp -o A01
+#1650311400
+cd
+#1650311451
+nano ~/ao1.cpp
+#1650311712
+g++ -Wall -g a01.cppyy -o A01
+#1650311724
+g++ -Wall -g a01.cppyy -o Assign_01
+#1650311816
+g++ -Wall -g a01.cpp -o A01
+#1650311827
+g++ -Wall -g a01.cpp -o Assign_01
+#1650311835
+ls
+#1650311844
+cd Assign_01
+#1650311846
+ls
+#1650311890
+g++ -Wall -g a01.cppyyp -o
+#1650312461
+./a.out
+#1650312470
+g++
+#1650312476
+g++ a01.cpp
+#1650312625
+g++ -Wall -g a01.cpp -oA01
+#1650312631
+cd
+#1650312633
+g++ -Wall -g a01.cpp -oA01
+#1650312640
+g++ -Wall -g a01.cpp -o A01
+#1650312648
+g++ -Wall -g a01.cpp
+#1650312655
+ls
+#1650312665
+cd CS161b
+#1650312666
+ls
+#1650312670
+cd
+#1650312671
+dc
+#1650331401
+g++ -Wall -g a01.cpp
+#1650331436
+./a.out
+#1650331460
+c
+#1650331514
+exit
+#1650331568
+./phoneplan
+#1650331629
+exit
+#1650313653
+cs
+#1650313666
+g++ -Wall trua01.cpp
+#1650313668
+ls
+#1650313674
+cd Assign_01
+#1650313675
+las
+#1650313676
+ls
+#1650313687
+g++ -Wall trua01.cpp
+#1650313927
+./trua01.cpp
+#1650314010
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650314021
+./phoneplan
+#1650314309
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650314315
+./phoneplan
+#1650314339
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650314343
+./phoneplan
+#1650314612
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650314615
+./phoneplan
+#1650316463
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650316764
+clear
+#1650316767
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317142
+clear
+#1650317146
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317172
+clear
+#1650317174
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317328
+clear
+#1650317332
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317338
+clear
+#1650317339
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317389
+./phoneplan
+#1650317542
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317565
+clear
+#1650317568
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317590
+./phoneplan
+#1650317896
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317905
+./phoneplan
+#1650317984
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650317992
+./phoneplan
+#1650318202
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650318205
+./phoneplan
+#1650318280
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650318359
+clear
+#1650318361
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650318733
+clear
+#1650318737
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650318822
+clearA
+#1650318824
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650318836
+./phoneplan
+#1650320476
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650320479
+./phoneplan
+#1650321504
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650321508
+./phoneplan
+#1650321609
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650321612
+./phoneplan
+#1650323606
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650323696
+./phoneplan
+#1650324837
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650324891
+./phoneplan
+#1650324900
+clear
+#1650324903
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650324922
+clear
+#1650324933
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650325002
+clear
+#1650325007
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650325014
+./phoneplan
+#1650325104
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650325106
+./phoneplan
+#1650326032
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650326077
+./phoneplan
+#1650326264
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650326267
+./phoneplan
+#1650327393
+clear
+#1650327396
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650327518
+clear
+#1650327521
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650327540
+./phoneplan
+#1650328054
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650328088
+./phoneplan
+#1650330165
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650330202
+./phoneplan
+#1650330383
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650330386
+./phoneplan
+#1650330463
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650330466
+./phoneplan
+#1650330494
+l
+#1650330565
+./phoneplan
+#1650330711
+clea
+#1650330714
+clear
+#1650330869
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650331395
+script output.txt
+#1650331556
+script output*.txt
+#1650331748
+less output.txt (END)
+#1650331757
+less output.txt 
+#1650331791
+exit
+#1650331834
+cd
+#1650331836
+ls
+#1650331845
+Assign_01
+#1650331857
+cd Assign_01
+#1650331860
+ls
+#1650331920
+nano phoneplan
+#1650331936
+logout
+#1650332017
+get output.txt
+#1650332021
+exit
+#1650333300
+./phoneplan
+#1650333346
+L
+#1650333348
+8.10
+#1650333354
+./phoneplan
+#1650333391
+exit
+#1650334724
+./phoneplan
+#1650334749
+s
+#1650334753
+./phoneplan
+#1650334772
+exit
+#1650332107
+get
+#1650332119
+sftp
+#1650332138
+ls
+#1650332146
+Assign_01
+#1650332160
+cd Assign_01
+#1650332162
+ls
+#1650332174
+cd output.txt
+#1650332350
+sftp charlie.casarez@cslinux.pcc.edu
+#1650333108
+ls
+#1650333127
+Assign_01
+#1650333144
+./phoneplan
+#1650333157
+clear
+#1650333287
+script assign1.txt
+#1650333398
+less assign1.txt
+#1650333853
+ls
+#1650334308
+rm a.out
+#1650334312
+ls
+#1650334323
+rm A01.cpp
+#1650334334
+rm A01
+#1650334337
+ls
+#1650334350
+rm output.txt
+#1650334360
+rm a01.cppyy
+#1650334367
+rm a01.cpp
+#1650334369
+ls
+#1650334392
+rm phoneplan
+#1650334393
+ls
+#1650334410
+rm assign1.txt
+#1650334412
+ls
+#1650334592
+rm assign1.txt
+#1650334611
+ls
+#1650334636
+g++ -Wall trua01.cpp -g -o phoneplan
+#1650334661
+./phoneplan
+#1650334683
+clear
+#1650334704
+script output.txt
+#1650334795
+less output.txt
+#1650313281
+A01
+#1650313287
+cd A01
+#1650313290
+ls
+#1650313300
+Assign_01
+#1650313309
+cd Assign_01
+#1650313311
+ls
+#1650313340
+nano a01.cppyy
+#1650313357
+nano 
+#1650313424
+ls
+#1650313436
+g++ trua01.cpp
+#1650313460
+nano trua01.cpp
+#1650314099
+nano phoneplan
+#1650314130
+nano trua01.cpp
+#1650406710
+ls
+#1650406721
+Assign_01
+#1650407466
+cd Assign_01
+#1650407468
+ls
+#1650407477
+./phoneplan
+#1650407514
+nano trua01.cpp
+#1650411237
+g++ trua01.cpp
+#1650411246
+cd Assign_01
+#1650411249
+g++ trua01.cpp
+#1650411270
+./phoneplan
+#1650412012
+ls
+#1650412033
+g++ -Wall a01.cpp
+#1650412039
+./phoneplan
+#1650479596
+ls
+#1650479608
+cd CS161b
+#1650479610
+ls
+#1650479635
+rmdir test01
+#1650479649
+cd test01
+#1650479650
+ls
+#1650479656
+/
+#1650479665
+cd 
+#1650479692
+rm -r test01
+#1650479699
+cd CS161b
+#1650479701
+ls
+#1650479710
+rm -r test01
+#1650479713
+ls
+#1650479785
+mv Assign_01 CS161b
+#1650479805
+cd Assign_01
+#1650479811
+cd
+#1650479812
+ls
+#1650479827
+mv Assign_01 CS161b
+#1650479829
+ls
+#1650479837
+cd CS161b
+#1650479838
+ls
+#1650479859
+mkdir assign_02
+#1650479865
+cd assign_02
+#1650479914
+cd Assign_01
+#1650479916
+ls
+#1650479919
+cd
+#1650479925
+cd Assign_01
+#1650479941
+cd CS161b/Assign_01
+#1650479943
+ls
+#1650479958
+nano a01.cpp
+#1650479970
+njjn
+#1650479979
+clear
+#1650479982
+ls
+#1650480000
+cd CS161b/assign_02
+#1650480008
+cd
+#1650480021
+cd CS161b/Assign_01
+#1650480022
+ls
+#1650480033
+cd CS161b/assign_02
+#1650480039
+ls
+#1650480041
+cd
+#1650480046
+cd CS161b
+#1650480048
+ls
+#1650480054
+cd assign_02
+#1650480056
+ls
+#1650480068
+nano a02.cpp
+#1650480133
+g++ -wall a02.cpp assign_02
+#1650480146
+g++ -Wall a02.cpp
+#1650480158
+./a02.cpp
+#1650483145
+cd
+#1650483146
+ls
+#1650483152
+cd CS161b
+#1650483153
+ls
+#1650483167
+cd Assign_01
+#1650483168
+ls
+#1650483178
+nano a01.cpp
+#1650483195
+ls
+#1650487993
+cd
+#1650488001
+cd home
+#1650616030
+ls
+#1650616039
+cd CS161b
+#1650616042
+ls
+#1650616060
+cd Assign_1
+#1650616067
+cd Assign_)1
+#1650616072
+cd Assign_01
+#1650616073
+ls
+#1650616086
+./phoneplan
+#1650616114
+175 - 2
+#1650616120
+ls
+#1650616130
+output.txt
+#1650616138
+nano a01.cpp
+#1650920882
+clear
+#1650921657
+g++ -Wall -g a02.cpp -o a02
+#1650921669
+g++ -Wall -g a02.cpp -o assign_02
+#1650921675
+ls
+#1650921681
+CS161b
+#1650921687
+cd CS161b
+#1650921688
+ls
+#1650921696
+g++ -Wall -g a02.cpp -o assign_02
+#1650921704
+cd assign_02
+#1650921708
+g++ -Wall -g a02.cpp -o assign_02
+#1650921885
+./a02.cpp
+#1650921927
+./a02
+#1650921929
+ls
+#1650921950
+./assign_02
+#1650922057
+clear
+#1650922480
+ls
+#1650922486
+cd CS161b
+#1650922487
+ls
+#1650922493
+cd assign_02
+#1650922495
+ls
+#1650922499
+./assign_02
+#1650922505
+g++ -Wall -g a02.cpp -o assign_02
+#1650922646
+./assign_02
+#1650922817
+g++ -Wall -g a02.cpp -o assign_02
+#1650922850
+./assign_02
+#1650922877
+g++ -Wall -g a02.cpp -o assign_02
+#1650922879
+./assign_02
+#1650922899
+g++ -Wall -g a02.cpp -o assign_02
+#1650922902
+./assign_02
+#1650923301
+clear
+#1650923324
+./assign_02
+#1650924785
+clear
+#1650924792
+g++ -Wall -g a02.cpp -o assign_02
+#1650924859
+clear
+#1650924860
+g++ -Wall -g a02.cpp -o assign_02
+#1650926078
+clear
+#1650926080
+g++ -Wall -g a02.cpp -o assign_02
+#1650926093
+./assign_02
+#1650926106
+g++ -Wall -g a02.cpp -o assign_02
+#1650926353
+./assign_02
+#1650926362
+ls
+#1650926390
+g++ -Wall -g a02.cpp -o a02
+#1650926402
+g++ -Wall -g a02.cpp
+#1650926472
+g++ -Wall -g a02.cpp -o a02
+#1650926475
+clear
+#1650926485
+cd
+#1650926487
+\ls
+#1650926492
+cd CS161b
+#1650926493
+ls
+#1650926500
+cd assign_02
+#1650926501
+ls
+#1650926519
+g++ a02.cpp
+#1650920885
+clear
+#1650920888
+ls
+#1650920896
+cd CS161b
+#1650920900
+ls
+#1650920906
+cd assign_02
+#1650920908
+ls
+#1650920915
+nano a02.cpp
+#1650922466
+ls
+#1650922512
+nano a02.cpp
+#1650926644
+ls
+#1650926647
+CS161b
+#1650926652
+cd CS161b
+#1650926654
+ls
+#1650926660
+cd assign_02
+#1650926662
+ls
+#1650926673
+g++ -Wall a02.cpp
+#1650926710
+ls
+#1650926724
+./a.out
+#1650926766
+clear
+#1650926768
+./a.out
+#1650926817
+clear
+#1650927005
+./a.out
+#1650927018
+clear
+#1650927025
+g++ -Wall a02.cpp
+#1650927777
+clear
+#1650927796
+g++ -Wall -g a02.cpp -o a02
+#1650927919
+ls
+#1650928032
+cd assign_02
+#1650928035
+g++ -Wall -g a02.cpp -o a02
+#1650928040
+cd assign_02
+#1650928044
+cd CS161b
+#1650928050
+cd assign_02
+#1650928054
+g++ -Wall -g a02.cpp -o a02
+#1650928057
+clear
+#1650928058
+g++ -Wall -g a02.cpp -o a02
+#1650928172
+clear
+#1650928174
+g++ -Wall -g a02.cpp -o a02
+#1650928460
+clear
+#1650928463
+g++ -Wall -g a02.cpp -o a02
+#1650928517
+clear
+#1650928519
+g++ -Wall -g a02.cpp -o a02
+#1650928563
+clear
+#1650928564
+g++ -Wall -g a02.cpp -o a02
+#1650927999
+cd CS161b assign_02
+#1650928003
+cd CS161b 
+#1650928010
+cd assign_02
+#1650928011
+ls
+#1650928020
+nano a02.cpp
+#1650931540
+cd CS161b
+#1650931549
+c assign_02
+#1650931551
+ls
+#1650931556
+cd assign_02
+#1650931562
+g++ -Wall -g a02.cpp -o a02
+#1650931565
+clear
+#1650931567
+g++ -Wall -g a02.cpp -o a02
+#1650932074
+clear
+#1650932075
+g++ -Wall -g a02.cpp -o a02
+#1650932160
+clear
+#1650932162
+g++ -Wall -g a02.cpp -o a02
+#1650933266
+clear
+#1650933269
+g++ -Wall -g a02.cpp -o a02
+#1650933336
+clear
+#1650933337
+g++ -Wall -g a02.cpp -o a02
+#1650933569
+./a.out
+#1650933572
+ls
+#1650933579
+./a02
+#1650933671
+g++ -Wall -g a02.cpp -o a02
+#1650933678
+./a02
+#1650933842
+ls
+#1650933845
+clear
+#1650933847
+./a02
+#1650933853
+clear
+#1650933856
+g++ -Wall -g a02.cpp -o a02
+#1650933859
+./a02
+#1650933960
+clear
+#1650933962
+g++ -Wall -g a02.cpp -o a02
+#1650933965
+./a02
+#1650934035
+clear
+#1650936210
+g++ -Wall -g a02.cpp -o a02
+#1650936479
+clear
+#1650936480
+g++ -Wall -g a02.cpp -o a02
+#1650936580
+./a02
+#1650937601
+g++ -Wall -g a02.cpp -o a02
+#1650937703
+./a02
+#1650937823
+g++ -Wall -g a02.cpp -o a02
+#1650937827
+clear
+#1650937830
+./a02
+#1650937863
+clear
+#1650937867
+g++ -Wall -g a02.cpp -o a02
+#1650937870
+clear
+#1650937873
+./a02
+#1650938212
+g++ -Wall -g a02.cpp -o a02
+#1650938221
+clear
+#1650938223
+./a02
+#1650938280
+clear
+#1650938281
+./a02
+#1650938568
+g++ -Wall -g a02.cpp -o a02
+#1650938574
+clear
+#1650938576
+./a02
+#1650938603
+clear
+#1650938605
+./a02
+#1650939022
+clear
+#1650939025
+g++ -Wall -g a02.cpp -o a02
+#1650939029
+clear
+#1650939031
+./a02
+#1650939786
+g++ -Wall -g a02.cpp -o a02
+#1650939789
+clear
+#1650939792
+./a02
+#1650939899
+g++ -Wall -g a02.cpp -o a02
+#1650939977
+./a02
+#1650940057
+g++ -Wall -g a02.cpp -o a02
+#1650940060
+./a02
+#1650931489
+nano a02.cpp
+#1650931502
+ls
+#1650931508
+cd CS161b
+#1650931509
+ls
+#1650931515
+cd assign_02
+#1650931516
+ls
+#1650931523
+nano a02.cpp
+#1651000050
+clear
+#1651000058
+./a02
+#1651000174
+exit
+#1650999784
+cd assign_02
+#1650999801
+cd CS 161b
+#1650999809
+cd CS161b
+#1650999816
+cd assign_01
+#1650999828
+cd assign_02
+#1650999834
+g++ -Wall -g a02.cpp -o a02
+#1650999843
+./a02
+#1650999877
+clear
+#1650999907
+script output.txt
+#1650999915
+clear
+#1650999923
+./a02
+#1650999957
+clear
+#1650999970
+exit
+#1650999975
+dls
+#1650999976
+ls
+#1650999991
+rmdir output.txt
+#1651000019
+clear
+#1651000045
+script output.txt
+#1651000180
+ls
+#1651002715
+cd CS161b
+#1651002718
+ls
+#1651002723
+cd assign_02
+#1651002725
+ls
+#1651002736
+g++ -Wall -g a02.cpp -o a02
+#1651002748
+./a02
+#1650999369
+clear
+#1650999371
+ls
+#1650999374
+cd CS161b
+#1650999376
+ls
+#1650999387
+cd assign_02
+#1650999392
+nano a02.cpp
+#1651022351
+cd CS161b
+#1651022352
+ls
+#1651022374
+cp -r ~gd.iyer/LinuxLabs .
+#1651022387
+ll
+#1651022392
+ls -a
+#1651022433
+clear
+#1651022482
+ls
+#1651022488
+cd LinuxLabs
+#1651022498
+vim labl.cpp
+#1651023053
+vim
+#1651023091
+vim lab1.cpp
+#1651023700
+vim list.cpp

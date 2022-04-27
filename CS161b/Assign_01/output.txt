@@ -1,0 +1,60 @@
+Script started on 2022-04-18 19:18:24-07:00
+]0;charlie.casarez@vmcslinuxprod01:~/Assign_01charlie.casarez@vmcslinuxprod01:~/Assign_01 $ exit./phoneplan[7P8.10./phoneplan
+***** Welcome to Mint Mobile! *****
+Lets Calculate youre monthly bill!
+S: 2GB $35/mo*
+M: 4GB $50/mo*
+L: 8GB $70/mo*
+U: Unlimited $75/mo
+*Overage charges $15 per GB
+ 
+ Which plan are you on? (S/M/L/U): 
+M
+How many GB did you use last month?
+8.1
+Plan charges: $50
+Overage charges: $75.00
+Total cost: $125.00
+Upgrade to Unlimited and save $50.00
+Thank you for using mint mobile, 
+ goodbye!
+]0;charlie.casarez@vmcslinuxprod01:~/Assign_01charlie.casarez@vmcslinuxprod01:~/Assign_01 $ ./phoneplan
+***** Welcome to Mint Mobile! *****
+Lets Calculate youre monthly bill!
+S: 2GB $35/mo*
+M: 4GB $50/mo*
+L: 8GB $70/mo*
+U: Unlimited $75/mo
+*Overage charges $15 per GB
+ 
+ Which plan are you on? (S/M/L/U): 
+u
+How many GB did you use last month?
+100
+Plan charges: $75
+Total cost: $75.00
+Thank you for using mint mobile, 
+ goodbye!
+]0;charlie.casarez@vmcslinuxprod01:~/Assign_01charlie.casarez@vmcslinuxprod01:~/Assign_01 $ s
+bash: s: command not found
+]0;charlie.casarez@vmcslinuxprod01:~/Assign_01charlie.casarez@vmcslinuxprod01:~/Assign_01 $ s./phoneplan
+***** Welcome to Mint Mobile! *****
+Lets Calculate youre monthly bill!
+S: 2GB $35/mo*
+M: 4GB $50/mo*
+L: 8GB $70/mo*
+U: Unlimited $75/mo
+*Overage charges $15 per GB
+ 
+ Which plan are you on? (S/M/L/U): 
+s
+How many GB did you use last month?
+2
+Plan charges: $35
+Total cost: $35.00
+Thank you for using mint mobile, 
+ goodbye!
+]0;charlie.casarez@vmcslinuxprod01:~/Assign_01charlie.casarez@vmcslinuxprod01:~/Assign_01 $ exit
+exit
+
+Script done on 2022-04-18 19:19:32-07:00
