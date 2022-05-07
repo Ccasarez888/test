@@ -1,0 +1,90 @@
+/******************************************************************************
+# Author:           Charlie Casarez
+# Assignment:       A03 
+# Date:             April 3, 2022
+# Description:    
+# Input:           
+# Output:          
+# Sources:         
+#*****************************************************************************/
+
+
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+
+//Function Declaration
+void Welcome();
+void Menu();
+char readOption(string);
+void userInput();
+void calcCost();
+
+
+//Main
+int main(){
+	string option = "";
+	char selection = '\0';
+
+	Welcome();
+	do{
+	Menu();
+	
+	selection = readOption(option);
+	}
+	while (selection == 'C' or selection == 'c' or selection == 'Q' or selection == 'q');
+
+return 0;
+}
+
+//Function definitions 
+
+//Welcome
+void Welcome(){
+
+
+	cout << "Welcome to my fitnessClub  program!\n";
+	cout << "******************************************************************************\n";
+	cout << "The cost to become a member of the fitClub center is as follows: \n\n";
+	cout << "The membership fee per month for Sports Club is $20.00\n";
+	cout << "*\n";
+	cout << "The membership fee per month for Ultra Sports Club is $30.00\n";
+	cout << "*\n";
+	cout << "If the membership is bought and paid for 12 or more months, the discount is 10% off membership cost\n";
+	cout << "*\n";
+	cout << "Personal training sessions are $10.00 per session\n";
+	cout << "*\n";
+	cout << "If more than 5 personal training sessions are bought and paid for, the discount on each session is 20%\n\n\n";
+
+
+}
+
+//DisplayMenu
+void Menu(){
+	cout << "Please pick one of the following options\n";
+	cout << "(C/c) Calculate the membership costs\n";
+	cout << "(Q/Q) quit this program\n";
+}
+
+
+//readOption
+char  readOption(string option){
+	char selection = '\0';
+	cout  << option;
+	cin >> selection;
+	while(selection != 'C' && selection != 'c' && selection != 'Q' && selection != 'q'){
+		cin.ignore();
+		cin.clear();
+		cout << "Invalid!\n";
+		cout << "Please pick one of the following options\n";
+		cout << "(C/c) Calculate the membership costs\n";
+		cout << "(Q/Q) quit this program\n";
+
+		cout << option;
+	        cin >> selection;	
+	}
+	return selection;
+}
